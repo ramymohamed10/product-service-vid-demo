@@ -1,0 +1,28 @@
+# Rust related
+target/
+Cargo.lock
+
+# If you are using a specific editor or IDE
+# IntelliJ related files
+.idea/
+*.iml
+
+# VS Code related files
+.vscode/
+
+# Mac OS related files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# dotenv environment variables file
+.env
+
+# Node modules (in case you add frontend code or scripts with npm)
+node_modules/
+
+# Backup files
+*.bak
